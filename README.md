@@ -19,6 +19,7 @@ In this repository you can find the following directories:
 Within the Eagle directories are the standard Eagle files:
 
 - *.sch Schematic file
+- *.sch.pdf PDF version of the schematic (handy if you don't have Eagle CAD)
 - *.brd Board Layout file
 - *.lbr Library containing all of the components in the sch/brd files
 - *.rar or *.zip Gerber files
