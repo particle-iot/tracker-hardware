@@ -31,3 +31,10 @@ Other useful resources include:
 
 - [Creating your first Tracker SoM board tutorial](https://docs.particle.io/tutorials/asset-tracking/tracker-som-first-board/).
 
+## Version History
+
+### Tracker One (Carrier Board) v1.1 (2020-08-18)
+
+1. Added TS3A5018 analog switch for isolate M8 IO pins.
+2. Recalculated impedance, modified RF 50 ohm and USB 90 ohm trace width.
+3. Added CAN BUS 5V output bypass fuse F2.
